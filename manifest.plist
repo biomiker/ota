@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://www.dropbox.com/s/satbgrq3d7xg4xf/Icon-App-57x57%401x.png?dl=1</string>
+					<string>https://github.com/biomiker/ota/Icon-App-57x57@1x.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://www.dropbox.com/s/hmkglvv7j1id5x6/ItunesArtwork%401x.png?dl=1</string>
+					<string>https://github.com/biomiker/ota/ItunesArtwork@1x.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
