@@ -29,13 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.pioneer.dataobservationcollection</string>
+				<string>com.biotique.FlightPlan411</string>
 				<key>bundle-version</key>
-				<string>0.1.0</string>
+				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>DOC</string>
+				<string>FlightPlan</string>
 			</dict>
 		</dict>
 	</array>
