@@ -30,7 +30,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.pioneer.isaia-qa</string>
+				<string>com.pioneer.isaia-dev</string>
 				<key>bundle-version</key>
 				<string>2.0</string>
 				<key>kind</key>
