@@ -29,7 +29,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.biotiquesystems.safekeyscan</string>
+				<string>com.echelondx.safekeyscan</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
