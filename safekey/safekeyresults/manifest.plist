@@ -30,7 +30,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.echelondx.safekeyresults</string>
+				<string>com.echelondx.safekeyresults.dev</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
@@ -38,7 +38,7 @@
 				<key>platform-identifier</key>
 				<string>com.apple.platform.iphoneos</string>
 				<key>title</key>
-				<string>SafeKeyResults</string>
+				<string>SKResultsDEV</string>
 			</dict>
 		</dict>
 	</array>
